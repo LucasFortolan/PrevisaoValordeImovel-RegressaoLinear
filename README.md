@@ -1,4 +1,4 @@
-**Segmentação de Clientes em E-commerce com K-Means e Análise RFM (Recency, Frequency, Monetary)**
+**Previsão de Preços de Imóveis com Correlação e Regressão Linear (R² = 0,61)**
 
 Este repositório apresenta um estudo sobre a aplicação de **correlação e regressão linear** para prever o preço de casas com base em suas características estruturais e de localização. As etapas realizadas incluem:
 - Limpeza de dados
